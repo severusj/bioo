@@ -1,0 +1,195 @@
+.foto-1 img
+{
+	width: 250px;
+	height: 250px;
+	bottom: 45px;
+
+
+}
+body
+{
+	margin: 0;
+	background-image: url(wolvie.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 0px 100px 110px 100px;
+
+
+}
+
+
+.nav a
+{
+	top: 20px;
+	padding-bottom: 2px;
+	color: white;
+	font-size: 2rem;
+	word-spacing: 5px;
+	padding-right: 35px;
+	padding-left:1px;
+
+}
+.nav a:hover
+{
+	color: white;
+	border-radius: 5px;
+	background-color: #031234;
+	text-decoration: none;
+}
+.navbar-header img
+{
+	width: 75px;
+	height: 75px;
+}
+#yo
+{
+	right: 1000px;
+	padding-top: 0px;
+	top: 20px;
+	list-style: none;
+	font-size: 5rem;
+
+}
+.container h1 a
+{
+	color: white;
+	list-style: none;
+	font-size: 5rem;
+	border-color: white;
+	font-family: SF Pixelate;
+	word-spacing: 5px;
+
+}
+
+.container h1 :hover
+{
+	color: white;
+	background-color: #031234;
+	border-color: #031234;
+}
+
+.bg-1
+{
+	background-color: white;
+	border-radius: 5px;
+	padding-bottom: 500px;
+	padding-top: 25px;
+}
+.navbar-right
+{
+	background-color: transparent;
+	padding-left: 135px;
+	align-items: center;
+	align-content: center;
+}
+#thumbnail-link
+{
+	align-content: center;
+	width:100%;
+	height: 100%;
+	padding: 10px;
+	border-width: px;
+	border-color: grey;
+	max-width: 100vh;
+	max-height: 100vh;
+}
+.links a
+{
+	color: #031234;
+}
+.links a:hover
+{
+	background-color: #031234;
+	color: white;
+}
+
+.thumbnail
+{
+width:100%;
+height: 100%;
+padding: 20px;
+
+border-width: 1px;
+border-color: black;
+box-shadow: 2px 1px #031234;
+max-width: 100vh;
+max-height: 100vh;
+
+}
+.thumbnail img
+{
+	width:100%;
+	-webkit-transition:all .9s ease; /* Safari y Chrome */
+-moz-transition:all .5s ease; /* Firefox */
+-o-transition:all .5s ease; /* IE 9 */
+-ms-transition:all .5s ease; /* Opera */
+}
+
+.thumbnail:hover
+{
+	
+border-color: black;
+
+}
+.thumbnail img:hover
+{
+	-webkit-transform:scale(1.05);
+-moz-transform:scale(1.05);
+-ms-transform:scale(1.05);
+-o-transform:scale(1.05);
+transform:scale(1.05);
+}
+.btn-video
+{
+	border-color: grey;
+	color: black;
+}
+.btn-video:hover
+{
+	background-color: #031234;
+	color: white;
+}
+
+
+.thumbnail-linkin img:hover
+{
+	-webkit-transform:scale(1.05);
+-moz-transform:scale(1.05);
+-ms-transform:scale(1.05);
+-o-transform:scale(1.05);
+transform:scale(1.05);
+}
+.cancion-personaje
+{
+	background-color: #031234;
+	padding: 20px;
+	
+}
+.links ul
+{
+	list-style: none;
+}
+.links ul li
+{
+	font-size: 4rem;
+}
+.links ul li a
+{
+	color: grey;
+	text-decoration: none;
+}
+.bg-2
+{
+	display: inline;
+}
+.footer
+{
+	background-color: black;
+	background-size: 100%;
+
+	color: white;
+
+}
+
+
+
